@@ -1,0 +1,246 @@
+body {
+    font-family: Poppins, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+/* header section start */
+header {
+    background:
+    linear-gradient(#24242463, #292929e8), url(img/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 172px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+header h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+
+header p {
+    color: rgb(216, 216, 216);
+    font-size: 14px;
+}
+
+.btn {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background: rgb(255, 89, 89);
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-left: -35px;
+}
+/* header section end */
+/* donate-today section start */
+.donate-today {
+    text-align: center;
+    padding: 100px 200px;
+}
+
+.donate-today h1 {
+    font-size: 35px;
+    margin: 0px;
+    font-weight: 600;
+}
+
+.donate-today p {
+    color: rgb(112, 112, 112);
+    font-size: 15px;
+}
+
+.amount {
+    display: flex;
+}
+
+.amount h1 {
+    text-align: center;
+    margin: 10px auto;
+    background: rgba(221, 221, 221, 0.18);
+    padding: 30px 12px;
+    border-radius: 5px;
+    color: rgb(112, 112, 112);
+    font-size: 30px;
+}
+
+.amount .amount-200 {
+    border: 2px solid rgb(255, 89, 89);
+    color: rgb(255, 89, 89);
+    background: rgba(255, 89, 89, 0.176);
+}
+
+.donate-today input {
+    border: none;
+    border-bottom: 1px solid rgb(218, 218, 218);
+    padding: 5px -39px;
+    margin-top: 50px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding-left: 0px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-left: -110px;
+}
+.donate-today-content{
+    width: 250px;
+    margin: 0px auto;
+}
+/* donate today section end */
+/* donate plan section start */
+.donate-plan {
+    padding: 0px 100px 100px;
+    margin-top: 0px;
+}
+
+.donate-plan-text {
+    text-align: center;
+}
+
+.donate-plan-text h1 {
+    font-size: 35px;
+    margin: 0px;
+}
+
+.donate-plan-text p {
+    padding: 0px 200px;
+    color: rgb(112, 112, 112);
+    font-size: 15px;
+}
+
+.donate-plan-items {
+    display: flex;
+}
+
+.donate-plan-items .items-1 {
+    width: 28%;
+    background: rgb(237, 245, 246);
+    padding: 15px;
+    border-radius: 5px;
+    margin: 30px auto;
+}
+
+.donate-plan-items .items-2 {
+    background-color: rgb(255, 238, 238);
+}
+
+.donate-plan-items .items-3 {
+    background: rgb(255, 244, 214);
+}
+/* donate plan section end */
+/* latest work section start */
+.latest-work {
+    padding-bottom: 100px;
+}
+
+.latest-work-text {
+    text-align: center;
+    padding: 0px 100px 90px;
+}
+
+.latest-work-text p {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.latest-work-text h1 {
+    font-size: 35px;
+    margin: 0px;
+}
+
+.latest-work-text span {
+    color: rgb(255, 89, 89);
+}
+
+.latest-work-items {
+    display: flex;
+}
+
+.latest-work-item-1 {
+    width: 22%;
+    box-shadow: rgb(112, 112, 112) 1px 1px 30px;
+    padding: 0px;
+    border-radius: 5px;
+    margin: 0px auto;
+}
+
+.latest-work-item-1 img {
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.latest-work-item-1 p {
+    color: rgb(255, 89, 89);
+}
+
+.latest-work-item-1-text {
+    padding: 5px 10px;
+}
+/* laset work section end */
+/* update section start */
+.update {
+    padding-bottom: 100px;
+}
+
+.update h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.update p {
+    color: rgb(143, 140, 140);
+    text-align: center;
+    padding: 0px 200px;
+}
+
+.update form {
+    background: rgb(255, 244, 214);
+    padding: 80px 90px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 50px auto;
+}
+
+.update form input {
+    border: none;
+    background: rgb(217, 217, 217);
+    padding: 13px 40px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.update a {
+    padding: 9px 20px 9px 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background: rgb(255, 89, 89);
+    margin-left: -4px;
+    border-radius: 0px 5px 5px 0px;
+    display: inline-block;
+}
+/* update section end */
+/* footer section start */
+footer {
+    background: rgb(0, 0, 0);
+    padding: 50px 0px;
+    text-align: center;
+}
+
+footer h1 {
+    color: rgb(255, 89, 89);
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+
+}
+
+footer small {
+    color: rgb(216, 216, 216);
+    
+
+}
+/* footer section end */
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
